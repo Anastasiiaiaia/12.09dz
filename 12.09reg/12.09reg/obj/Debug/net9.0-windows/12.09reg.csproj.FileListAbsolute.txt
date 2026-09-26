@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\12.09reg\12.09reg\bin\Debug\net9.0-windows\12.09reg.exe
+C:\Users\User\source\repos\12.09reg\12.09reg\bin\Debug\net9.0-windows\12.09reg.deps.json
+C:\Users\User\source\repos\12.09reg\12.09reg\bin\Debug\net9.0-windows\12.09reg.runtimeconfig.json
+C:\Users\User\source\repos\12.09reg\12.09reg\bin\Debug\net9.0-windows\12.09reg.dll
+C:\Users\User\source\repos\12.09reg\12.09reg\bin\Debug\net9.0-windows\12.09reg.pdb
+C:\Users\User\source\repos\12.09reg\12.09reg\obj\Debug\net9.0-windows\_12._09reg.Form1.resources
+C:\Users\User\source\repos\12.09reg\12.09reg\obj\Debug\net9.0-windows\12.09reg.csproj.GenerateResource.cache
+C:\Users\User\source\repos\12.09reg\12.09reg\obj\Debug\net9.0-windows\12.09reg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\12.09reg\12.09reg\obj\Debug\net9.0-windows\12.09reg.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\12.09reg\12.09reg\obj\Debug\net9.0-windows\12.09reg.AssemblyInfo.cs
+C:\Users\User\source\repos\12.09reg\12.09reg\obj\Debug\net9.0-windows\12.09reg.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\12.09reg\12.09reg\obj\Debug\net9.0-windows\12.09reg.dll
+C:\Users\User\source\repos\12.09reg\12.09reg\obj\Debug\net9.0-windows\refint\12.09reg.dll
+C:\Users\User\source\repos\12.09reg\12.09reg\obj\Debug\net9.0-windows\12.09reg.pdb
+C:\Users\User\source\repos\12.09reg\12.09reg\obj\Debug\net9.0-windows\12.09reg.genruntimeconfig.cache
+C:\Users\User\source\repos\12.09reg\12.09reg\obj\Debug\net9.0-windows\ref\12.09reg.dll
