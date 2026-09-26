@@ -1,6 +1,3 @@
-using Microsoft.VisualBasic.ApplicationServices;
-using Microsoft.Win32;
-
 namespace _12._09reg
 {
     public partial class Form1 : Form
